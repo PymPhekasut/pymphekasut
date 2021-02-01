@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Full Stack Developer for Python, Django and JS.
 - 🌱 I’m currently learning Node.js and Micropython+RasberryPi for IoT.
-- 👯 I’m looking to collaborate on any position related to Software engineer/ Web developer (part-time/intern/fulltime) based in Sydney, NSW.
-- 📫 How to reach me: 
+- 👯 I’m looking to collaborate on any position related to Software engineer/ Web developer (part-time/intern/full-time) based in Sydney, NSW.
+- 📫 How to reach me: linkedin.com/in/pymphekasut   
 
 
 <!--
