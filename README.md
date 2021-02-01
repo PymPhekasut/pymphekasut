@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on Full Stack Developer for Python, Django and JS.
 - 🌱 I’m currently learning Node.js and Micropython+RasberryPi for IoT.
 - 👯 I’m looking to collaborate on any position related to Software engineer/ Web developer (part-time/intern/fulltime) based in Sydney, NSW.
-- 📫 How to reach me: linkedin.com/in/pymphekasut   | pym.neeranut@gmail.com
+- 📫 How to reach me: 
+<br/>
+[linkedin]: http://linkedin.com/in/pymphekasut   
 
 <!--
 **PymPhekasut/Pymphekasut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
