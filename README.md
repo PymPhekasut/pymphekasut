@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full Stack Developer for Python, Django and JS.
-- 🌱 I’m currently learning Node.js and Micropython+RasberryPi for IoT.
-- 👯 I’m looking to collaborate on any position related to Software engineer/ Web developer (part-time/intern/full-time) based in Sydney, NSW.
- 
+- 😄 I'm currently searching for job in software develop environment.
+- 👯 I’m looking to collaborate on any position related to Software engineer/ Web developer (part-time/intern/full-time) based in anywhere in Australia.
+- 🔭 I’m currently working on Full Stack Developer for Python, Django and JS for website.
+- 🌱 I’m learning Node.js, React.js, Micropython+RasberryPi for IoT as well.
 
 
 <!--
